@@ -17,7 +17,7 @@ use read to get input from the user.
 Kjøres med ./fraDenne.sh
 
 Bruker skriver inn en IP
-IP som blir skrevet inn blir lagt i tilTekst.txt
+som blir skrevet inn blir lagt i tilTekst.txt
 Lager en variabel "del1" og bruker cut for å bare ta 
 de 9 første tegnene av den IPen som er skrevet inn.
 Bruker for løkke som teller fra 1 til 255
